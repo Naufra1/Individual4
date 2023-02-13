@@ -13,4 +13,4 @@
 <p>Tipos: tipo VARCHAR
 <p>Data: tipo DATE
 <h2>Como essas entidades estão relacionadas?
-<p>O aluno se matricula no curso, que tem diversas turmas. Os professores ministram aulas em uma turma criada por algum curso.
+<p>O aluno se matricula no curso, que tem diversas turmas. Os professores ministram aulas em uma turma que foi criada por algum curso.
